@@ -18,23 +18,5 @@
   </a>
 </p>
 
----
-
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermebandeiracosta&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-### 📌 Linguagens mais usadas:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebandeiracosta&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
----
 
 <h4 align="center">"A simplicidade é a maior sofisticação." – Leonardo da Vinci</h4>
