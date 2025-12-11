@@ -1,11 +1,10 @@
 <h1 align="center">👨‍💻 Guilherme Bandeira Costa</h1>
-<h3 align="center">Estudante de Ciência da Computação | Web Designer | Músico 🎶</h3>
+<h3 align="center">Estudante de Ciência da Computação | Web Designer em desenvolvimento | Músico 🎶</h3>
 
 ---
 
 ### 👋 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** no IFRS  
-- 🎶 Apaixonado por música (violão, voz e teoria musical)    
+- 🎓 Estudante de **Ciência da Computação** no IFRS     
 
 ---
 
